@@ -27,12 +27,3 @@ To run this application, you need the following:
 - **Sqlite3** database set up with the appropriate tables and columns
 - **Postman** or any API client to test the API endpoints.
 
-## Setup and Installation
-
-Follow the steps below to set up the project locally:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone <repository-url>
-   cd <project-directory>
